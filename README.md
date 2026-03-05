@@ -116,6 +116,22 @@ The application dynamically computes recommendations using the trained similarit
 
 ---
 
+## Application Preview
+
+### Home Page
+
+![Home Page](screenshots/home_page.png)
+
+### User Input
+
+![User Input](screenshots/user_input.png)
+
+### Recommendation Results
+
+![Recommendations](screenshots/recommendations.png)
+
+---
+
 ## Technologies Used
 
 - Python
