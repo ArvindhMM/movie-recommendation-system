@@ -59,7 +59,7 @@ The scraper automatically:
 - Extracts movie storyline summaries
 
 The scraped data is saved into:
-data/imdb_2024_movies.csv
+- `data/imdb_2024_movies.csv`
 
 
 ---
@@ -80,8 +80,7 @@ The preprocessing steps include:
 The cleaned storylines are stored in a new column called **Processed_Storyline**.
 
 Generated file:
-data/imdb_2024_movies_processed.csv
-
+- `data/imdb_2024_movies_processed.csv`
 
 ---
 
